@@ -1,6 +1,6 @@
 # training_clark
 
-This is my informative readme
+This is my informative readme, it contains useful information
 
 Maggie was here
 
