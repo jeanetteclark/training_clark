@@ -4,4 +4,4 @@ This is my informative readme
 
 Maggie was here
 
-Jeanetted added even more info
+Jeanetted added even more info, add some info
